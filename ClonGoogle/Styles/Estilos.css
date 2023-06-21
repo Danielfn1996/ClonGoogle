@@ -113,7 +113,8 @@ footer {
 
 .dvFooter {
     display: flex;
-    justify-content:space-evenly
+    justify-content:space-between;
+    flex-direction:row;
 }
 
 footer a {
